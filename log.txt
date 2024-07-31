@@ -1,3 +1,15 @@
+commit 1e159db0a85230fedf56a3a7d6d5c5bceb9e7f5d
+Author: Brook Fu <brook@example.com>
+Date:   Wed Jul 31 17:29:56 2024 +0800
+
+    Add README
+
+commit a4ef73a46d449b95208d928aa6c5c0ce6800d81a
+Author: Brook Fu <brook@example.com>
+Date:   Wed Jul 31 16:45:33 2024 +0800
+
+    Add log
+
 commit 85621a07989dbd5f969f07b6de34ce5cc1c6b0c5
 Author: Brook Fu <brook@example.com>
 Date:   Wed Jul 31 16:09:04 2024 +0800

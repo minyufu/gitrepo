@@ -1,0 +1,35 @@
+commit 85621a07989dbd5f969f07b6de34ce5cc1c6b0c5
+Author: Brook Fu <brook@example.com>
+Date:   Wed Jul 31 16:09:04 2024 +0800
+
+    Resolved merge conflict
+
+commit 67192a7604452000ba8f6068f2401fb82d909680
+Author: Brook Fu <brook@example.com>
+Date:   Wed Jul 31 16:03:26 2024 +0800
+
+    Update causing conflict
+
+commit c58d2bcb65d104db30a9c4c1c6dc985c7987d927
+Author: Brook Fu <brook@example.com>
+Date:   Wed Jul 31 16:01:55 2024 +0800
+
+    Update on Master branch
+
+commit 3e170296f2dadc9b117a38537d41992f75f26b54
+Author: Brook Fu <brook@example.com>
+Date:   Wed Jul 31 15:58:31 2024 +0800
+
+    Feature update to web.html
+
+commit 6ece8723412eb6c93c553eaed63fadda989f1ec8
+Author: Brook Fu <brook@example.com>
+Date:   Wed Jul 31 15:55:15 2024 +0800
+
+    First update to web.html
+
+commit c35d4b4468984b4e5791b3909804f9f42b88dea8
+Author: Brook Fu <brook@example.com>
+Date:   Wed Jul 31 15:52:58 2024 +0800
+
+    Initial commit of web.html
